@@ -1,0 +1,95 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "video_url": "https://www.youtube.com/watch?v=fqI-feIYfhY",
+      "name": "Surf Survivor",
+      "description": "The surf survivor course encompasses all aspects of the Baywatch beach lifestyle. You’ll be split into two groups, taught real lifeguard skills by our team of qualified beach lifeguards and will battle it out head to head against each other in a series of rescues and challenges.",
+      "duration": "00:00:36",
+      "created_by": "Newquay Activity Centre",
+      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-private-lessons-1.jpg",
+      "popularity": "10",
+      "category_id": "2",
+      "category": "Surfing",
+      "keywords": "surfing,cornwall,lessons"
+    },
+    {
+      "id": "2",
+      "video_url": "https://www.youtube.com/watch?v=XKVY6iwyzMs",
+      "name": "Sea Kayaking Tour",
+      "description": "You’ll be taught the fundamentals of kayaking at our Activity Centre on Towan beach only 2 minutes walk from Towan headlands awesome gulleys, inlets and sheltered coves.",
+      "duration": "00:01:17",
+      "created_by": "Newquay Activity Centre",
+      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/07/kayaking-sea-kayak-tour-3.jpg",
+      "popularity": "3",
+      "category_id": "2",
+      "category": "Kayaking",
+      "keywords": "Kayaking,Kayak,lessons"
+    },
+    {
+      "id": "3",
+      "video_url": "https://www.youtube.com/watch?v=PsAIEg-sYik",
+      "name": "Jim Lee Art Lessons",
+      "description": "Jim Lee giving advice on how to become a better artist and it's a lot simpler than you may think. There's also a couple of quick lessons on dynamism and rendering objects in the light.",
+      "duration": "00:03:46",
+      "created_by": "VZA",
+      "image": "https://www.originalcomics.fr/15113/dc-comics-the-art-of-jim-lee-vol-1-hc-vo.jpg",
+      "popularity": "2",
+      "category_id": "3",
+      "category": "Art",
+      "keywords": "Art,Jim Lee,lessons"
+    },
+    {
+      "id": "4",
+      "video_url": "https://www.youtube.com/watch?v=Kw6Rug2wUbg",
+      "name": "Spray Paint",
+      "description": " I will make one painting that I really didn't plan to make. So I just took canvas and started with painting and just go with the flow. And I'm so happy how it turned out.",
+      "duration": "00:03:46",
+      "created_by": "Skech Art",
+      "image": "https://jooinn.com/images/moon-forest-fantasy.jpg",
+      "popularity": "2",
+      "category_id": "3",
+      "category": "Art",
+      "keywords": "Art,Spray Paint,Moon Forest"
+    },
+    {
+      "id": "5",
+      "video_url": "https://www.youtube.com/watch?v=fqI-feIYfhY",
+      "name": "Family Surf",
+      "description": "The surf survivor course encompasses all aspects of the Baywatch beach lifestyle. You’ll be split into two groups, taught real lifeguard skills by our team of qualified beach lifeguards and will battle it out head to head against each other in a series of rescues and challenges.",
+      "duration": "00:00:36",
+      "created_by": "Newquay Activity Centre",
+      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-family-lessons-2.jpg",
+      "popularity": "10",
+      "category_id": "2",
+      "category": "Surfing",
+      "keywords": "surfing,cornwall,lessons"
+    },
+    {
+      "id": "6",
+      "video_url": "https://www.youtube.com/watch?v=XKVY6iwyzMs",
+      "name": "Snorkel Kayak",
+      "description": "You’ll be taught the fundamentals of kayaking at our Activity Centre on Towan beach only 2 minutes walk from Towan headlands awesome gulleys, inlets and sheltered coves.",
+      "duration": "00:01:17",
+      "created_by": "Newquay Activity Centre",
+      "image": "https://i2.wp.com/newquayactivitycentre.co.uk/wp-content/uploads/2018/04/product-kayaking-snorkel-kayak-tour.jpg?w=800&ssl=1",
+      "popularity": "3",
+      "category_id": "2",
+      "category": "Kayaking",
+      "keywords": "Kayaking,Kayak,lessons"
+    },
+    {
+      "id": "7",
+      "video_url": "https://www.youtube.com/watch?v=Kw6Rug2wUbg",
+      "name": "Painting",
+      "description": " I will make one painting that I really didn't plan to make. So I just took canvas and started with painting and just go with the flow. And I'm so happy how it turned out.",
+      "duration": "00:03:46",
+      "created_by": "Skech Art",
+      "image": "https://artfulparent.com/wp-content/uploads/2017/01/Raised-Salt-Painting-with-Kids-1.jpg",
+      "popularity": "2",
+      "category_id": "3",
+      "category": "Art",
+      "keywords": "Art,Spray Paint,Moon Forest"
+    }
+  ]
+}

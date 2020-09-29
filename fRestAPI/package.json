@@ -1,0 +1,11 @@
+{
+  "name": "frestapi",
+  "version": "1.0.0",
+  "description": "Project images Angular et Ionic",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "author": "Tamby Mampionona",
+  "license": "ISC"
+}
